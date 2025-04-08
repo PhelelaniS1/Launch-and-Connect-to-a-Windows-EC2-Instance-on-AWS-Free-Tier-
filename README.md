@@ -52,7 +52,7 @@ This project demonstrates how to launch a **Windows EC2 instance** on **Amazon W
 - Uploaded `.pem` file to decrypt the password
 
 📸 _Screenshot: Decrypted password in AWS console_  
-![Decrypt Password](Screenshot 2025-04-08 205851.png)
+![Decrypt Password](https://github.com/PhelelaniS1/Launch-and-Connect-to-a-Windows-EC2-Instance-on-AWS-Free-Tier-/blob/53dc4c09568d6ea4ec62abcc12f04aab28a1e886/images/Screenshot%202025-04-08%20205717.png)
 
 ---
 

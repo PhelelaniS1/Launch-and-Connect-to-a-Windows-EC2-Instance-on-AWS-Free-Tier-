@@ -1,0 +1,2 @@
+# Launch-and-Connect-to-a-Windows-EC2-Instance-on-AWS-Free-Tier-
+This project demonstrates how to launch a Windows Server EC2 instance on AWS Free Tier, retrieve the administrator credentials, and connect securely using Remote Desktop Protocol (RDP). It includes step-by-step documentation and visuals, making it a beginner-friendly walkthrough for deploying and accessing a cloud-based Windows server.

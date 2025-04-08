@@ -40,7 +40,8 @@ This project demonstrates how to launch a **Windows EC2 instance** on **Amazon W
 - Launched the instance
 
 📸 _Screenshot: Instance launched successfully_  
-![EC2 Launch](images/ec2-launch.png)
+!![Alt text](images/Screenshot 2025-04-08 202909.png)
+
 
 ---
 
@@ -51,7 +52,7 @@ This project demonstrates how to launch a **Windows EC2 instance** on **Amazon W
 - Uploaded `.pem` file to decrypt the password
 
 📸 _Screenshot: Decrypted password in AWS console_  
-![Decrypt Password](images/decrypt-password.png)
+![Decrypt Password](Screenshot 2025-04-08 205851.png)
 
 ---
 
@@ -63,7 +64,7 @@ This project demonstrates how to launch a **Windows EC2 instance** on **Amazon W
 - Accepted the certificate warning
 
 📸 _Screenshot: Successful RDP connection_  
-![RDP](images/rdp-connected.png)
+![RDP](image/Screenshot 2025-04-08 205349.png)
 
 ---
 

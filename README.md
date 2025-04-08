@@ -40,7 +40,7 @@ This project demonstrates how to launch a **Windows EC2 instance** on **Amazon W
 - Launched the instance
 
 📸 _Screenshot: Instance launched successfully_  
-!![Alt text](images/Screenshot 2025-04-08 202909.png)
+!![Alt text](https://github.com/PhelelaniS1/Launch-and-Connect-to-a-Windows-EC2-Instance-on-AWS-Free-Tier-/blob/0b35ffc9ad9a9c4ebc6a272fdeb11095200a9cc9/images/Screenshot%202025-04-08%20204702.png)
 
 
 ---
